@@ -32,7 +32,4 @@ Two supervised learning models are evaluated:
 - Model evaluation using **MAE**, **RMSE**, and **R²**
 - Visual analytics and dashboard-ready outputs
 
----
-
-## Repository Structure
 
