@@ -6,7 +6,7 @@ The project was developed as part of a Master’s dissertation in **Data Science
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Traditional market forecasting models rely heavily on historical price data and technical indicators. However, financial markets are also driven by **investor psychology**, **behavioural biases**, and **sentiment derived from news**.
 
@@ -22,7 +22,7 @@ Two supervised learning models are evaluated:
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Behavioural finance indicators (VIX, EMA, daily returns, volatility)
 - News-based sentiment analysis using:
@@ -34,5 +34,5 @@ Two supervised learning models are evaluated:
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
